@@ -7,3 +7,6 @@ async def main():
 
 runloop.run(main())
 
+
+def move_forward() :
+    print("i moved forward")
